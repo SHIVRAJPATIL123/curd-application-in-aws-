@@ -3,7 +3,7 @@ regarding api calls , lambda functions etc
 
 
 
-1.create the dynamo db no sql databse table 
+1.create the dynamo db no sql databse table / product_inventary and product_id 
 2.create the lambda function before 
 3. for the lambda function ctrate the IAM role so that it can access the dynamo db and also the cloudwatch for the logs 
    go to iam / crteate role / lambda / add policy with cloudwatch full access + dynamo db full access / name = serverless api role / done 
