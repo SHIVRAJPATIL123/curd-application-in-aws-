@@ -30,3 +30,19 @@ regarding api calls , lambda functions etc
       send then it is successful 
 9. Go to the database then you can see the data inside the tables 
 10.
+
+1. create the databse as dynamo db
+2. create iam role with cloudwatch and the 
+
+
+routing fixing 1.api gateway 
+               2.webhook url hit lamda function 
+               3.tenent unique or namespaces in diffrent database 
+               4.connection end 
+               5.for preventing that = service constant connect to database apply sqs (prpduct ans storage )
+               6.load more maximum scale == back presure / geo logation  eg uber  to prevent this cutoff to prevent the data loss 
+               7.
+
+               8. mfk = amazon version always previous than current version 
+               9. 
+
